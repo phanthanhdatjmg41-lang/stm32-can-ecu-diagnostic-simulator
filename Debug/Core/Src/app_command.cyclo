@@ -1,4 +1,0 @@
-../Core/Src/app_command.c:17:13:Command_ShowHelp	1
-../Core/Src/app_command.c:46:13:Command_ShowStatus	1
-../Core/Src/app_command.c:96:13:Command_ShowDiagReport	1
-../Core/Src/app_command.c:171:6:Command_Process	22

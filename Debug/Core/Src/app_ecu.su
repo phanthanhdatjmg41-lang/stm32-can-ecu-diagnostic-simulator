@@ -1,8 +1,0 @@
-../Core/Src/app_ecu.c:11:6:Ecu_Init	4	static
-../Core/Src/app_ecu.c:25:6:Ecu_Start	4	static
-../Core/Src/app_ecu.c:36:6:Ecu_Stop	4	static
-../Core/Src/app_ecu.c:44:6:Ecu_Reset	4	static
-../Core/Src/app_ecu.c:52:6:Ecu_SetError	4	static
-../Core/Src/app_ecu.c:60:6:Ecu_Sleep	4	static
-../Core/Src/app_ecu.c:68:12:Ecu_GetState	4	static
-../Core/Src/app_ecu.c:73:13:Ecu_GetStateString	16	static

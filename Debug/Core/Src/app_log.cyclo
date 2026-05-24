@@ -1,0 +1,11 @@
+../Core/Src/app_log.c:33:13:Log_Save	5
+../Core/Src/app_log.c:72:6:Log_Init	1
+../Core/Src/app_log.c:90:6:Log_Info	1
+../Core/Src/app_log.c:95:6:Log_Warning	1
+../Core/Src/app_log.c:100:6:Log_Error	1
+../Core/Src/app_log.c:105:13:Log_GetLastEvent	1
+../Core/Src/app_log.c:110:12:Log_GetLastLevel	1
+../Core/Src/app_log.c:115:13:Log_GetLevelString	5
+../Core/Src/app_log.c:133:10:Log_GetInfoCount	1
+../Core/Src/app_log.c:138:10:Log_GetWarningCount	1
+../Core/Src/app_log.c:143:10:Log_GetErrorCount	1

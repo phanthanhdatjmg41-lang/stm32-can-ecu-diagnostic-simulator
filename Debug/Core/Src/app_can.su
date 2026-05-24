@@ -1,0 +1,12 @@
+../Core/Src/app_can.c:34:6:AppCAN_Init	48	static
+../Core/Src/app_can.c:78:6:AppCAN_SendTestFrame	152	static
+../Core/Src/app_can.c:120:6:HAL_CAN_RxFifo0MsgPendingCallback	256	static
+../Core/Src/app_can.c:149:6:AppCAN_PollRx	248	static
+../Core/Src/app_can.c:197:20:AppCAN_GetStateString	16	static
+../Core/Src/app_can.c:224:6:AppCAN_ShowStatus	136	static
+../Core/Src/app_can.c:271:6:AppCAN_SendDtcFrame	192	static
+../Core/Src/app_can.c:327:6:AppCAN_SendEcuFrame	192	static
+../Core/Src/app_can.c:373:6:AppCAN_SetAutoTransmit	112	static
+../Core/Src/app_can.c:404:9:AppCAN_GetAutoTransmit	4	static
+../Core/Src/app_can.c:415:6:AppCAN_ProcessAutoTransmit	16	static
+../Core/Src/app_can.c:460:6:AppCAN_PollRxAfterTx	8	static

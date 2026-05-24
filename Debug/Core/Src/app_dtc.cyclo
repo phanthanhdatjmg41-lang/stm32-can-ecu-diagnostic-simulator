@@ -1,0 +1,7 @@
+../Core/Src/app_dtc.c:18:6:Dtc_Init	1
+../Core/Src/app_dtc.c:29:6:Dtc_Set	2
+../Core/Src/app_dtc.c:52:6:Dtc_Clear	1
+../Core/Src/app_dtc.c:63:11:Dtc_GetCode	1
+../Core/Src/app_dtc.c:68:13:Dtc_GetStatus	1
+../Core/Src/app_dtc.c:73:13:Dtc_GetCodeString	5
+../Core/Src/app_dtc.c:94:13:Dtc_GetDescription	5
